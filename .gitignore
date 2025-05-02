@@ -1,0 +1,21 @@
+# VSCode repo settings
+.vscode
+node_modules
+trybe.yml
+reporter.json
+package.json
+package-lock.json
+.eslintrc.json
+.eslintignore
+.eslintcache
+*.log
+cupress
+cypress
+cypress.json
+cypress.config.js
+cypress.env.json
+.github
+.trybe
+art-with-pixels.gif
+README.md
+
