@@ -18,4 +18,5 @@ cypress.env.json
 .trybe
 art-with-pixels.gif
 README.md
-
+.editorconfig
+.stylerlintrc.json
