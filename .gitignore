@@ -1,7 +1,11 @@
 # VSCode repo settings
 .vscode
 node_modules
-trybe.yml
+.trybe.yml
+.github
+trybe
+README.md
+
 reporter.json
 package.json
 package-lock.json
